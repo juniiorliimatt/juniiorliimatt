@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p aling="left">
+<p aling="center">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg" alt="css3" width="48" height="48"/>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg" alt="html5" width="48" height="48"/>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" alt="javascript" width="48" height="48"/>
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mongodb.svg" alt="mongodb" width="48" height="48"/>
 </p>
 
-<p align="center">
+<p aling="center">
 <img src="https://github-readme-stats.vercel.app/api?username=juniiorliimatt&show_icons=true" alt="juniiorliimatt"/>
 </p>
 
