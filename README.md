@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 </p>
 
 <p aling="center">
-![GitHub followers](https://img.shields.io/github/followers/juniiorliimatt?style=social)
+[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&style=plastic)]() 
 </p>
 
 <p align="center">
