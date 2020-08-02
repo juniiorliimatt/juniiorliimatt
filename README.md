@@ -11,7 +11,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/imsiiix)](https://twitter.com/imsiiix)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/oojuniin)](https://www.instagram.com/oojuniin)
 
-## Sobre mim
+## About me
 
 - 🔶 In love with JavaScript
 - 🌱 Currently learning **Javascript** and **Node.js**
