@@ -19,24 +19,15 @@
 - 🔭 I'm currently working on personal projects
 - 👨🏽‍🎓 Analysis and systems development
 - ⚡ Fun fact: **If Pinocchio says “My Nose Will Grow Now”, it would cause a paradox. 🤥 👃🏽 🤯**
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg" alt="css3" width="24" height="24"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg" alt="html5" width="24" height="24"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" alt="javascript" width="24" height="24"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/typescript.svg" alt="typescript" width="24" height="24"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/angular.svg" alt="angular" width="24" height="24"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg" alt="postgresql" width="24" height="24"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mongodb.svg" alt="mongodb" width="24" height="24"/>
 
 ![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=juniiorliimatt&show_icons=true&hide_border=true)
 
-<p aling="center">
+<p align="center">
 <a href="https://codepen.io/juniiorliimatt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="codepen" height="20" width="20" /></a>
 <a href="https://twitter.com/imsiiix" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="20" width="20" /></a>
 <a href="https://www.linkedin.com/in/juniiorliimatt/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="20" width="20" /></a>
 <a href="https://stackoverflow.com/users/10157383/juniin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow" height="20" width="20" /></a>
 <a href="https://www.facebook.com/juniiorliimatt/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="20" width="20" /></a>
 <a href="https://www.instagram.com/oojuniin/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="20" width="20" /></a>
-</p>
-
-<p aling="center">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg" alt="css3" width="48" height="48"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg" alt="html5" width="48" height="48"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" alt="javascript" width="48" height="48"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/typescript.svg" alt="typescript" width="48" height="48"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/angular.svg" alt="angular" width="48" height="48"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg" alt="postgresql" width="48" height="48"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mongodb.svg" alt="mongodb" width="48" height="48"/>
 </p>
