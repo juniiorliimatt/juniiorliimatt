@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 </p>
 
 ![GitHub followers](https://img.shields.io/github/followers/juniiorliimatt?style=social)
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fimsiiix)
+![Twitter Follow](https://img.shields.io/twitter/follow/imsiix?style=social)
 
 <p align="center">
 <a href="https://codepen.io/juniiorliimatt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="juniiorliimatt" height="20" width="20" /></a>
