@@ -34,10 +34,8 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=juniiorliimatt&show_icons=true" alt="juniiorliimatt"/>
 </p>
 
-[![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Stars&style=plastic)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/badges/shields.svg?style=social&label=Watch&style=plastic)]()
-[![GitHub forks](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork&style=plastic)]()
-[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&style=plastic)]()  
+![GitHub followers](https://img.shields.io/github/followers/juniiorliimatt?style=social)
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fimsiiix)
 
 <p align="center">
 <a href="https://codepen.io/juniiorliimatt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="juniiorliimatt" height="20" width="20" /></a>
