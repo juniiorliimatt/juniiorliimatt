@@ -34,11 +34,6 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=juniiorliimatt&show_icons=true" alt="juniiorliimatt"/>
 </p>
 
-![GitHub followers](https://img.shields.io/github/followers/juniiorliimatt?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/imsiiix?style=social)
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/imsiiix?style=social">
-<img alt="GitHub followers" src="https://github/followers/juniiorliimatt?style=social">
-
 <p align="center">
 <a href="https://codepen.io/juniiorliimatt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="juniiorliimatt" height="20" width="20" /></a>
 <a href="https://twitter.com/imsiiix" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="juniiorliimatt" height="20" width="20" /></a>
