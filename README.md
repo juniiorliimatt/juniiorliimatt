@@ -25,7 +25,7 @@
 
 <br>
 
-![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=juniiorliimatt&show_icons=true&hide_border=true)
+![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=imsiiix&show_icons=true&hide_border=true)
 
 <br>
 <p align="center">
