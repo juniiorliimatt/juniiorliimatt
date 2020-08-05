@@ -9,9 +9,15 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/imsiiix)](https://twitter.com/imsiiix)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/oojuniin)](https://www.instagram.com/oojuniin)
 
-## About me
-
 - 🔶 Currently learning **Javascript**, **Typescript** and **Node.js**
+
+> “**Nothing** in this world can take the place of **persistence**.
+> **Talent** will not; nothing is more common than unsuccessful men with talent.
+> **Genius** will not; unrewarded genius is almost a proverb.
+> **Education** will not; the world is full of educated derelicts.
+> **Persistence** and **determination** alone are **omnipotent**. The slogan ** ***Press On*** **! has solved and always will solve the problems of the **human** race.”
+>
+> ― **Calvin Coolidge**
 
 <div align="center">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg" alt="css3" width="28" height="28"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg" alt="html5" width="28" height="28"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" alt="javascript" width="28" height="28"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/typescript.svg" alt="typescript" width="28" height="28"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/angular.svg" alt="angular" width="28" height="28"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg" alt="postgresql" width="28" height="28"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mongodb.svg" alt="mongodb" width="28" height="28"/>
