@@ -3,6 +3,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/juniiorliimatt)](https://github.com/imsiiix)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juniiorliimatt/)](https://www.linkedin.com/in/juniiorliimatt/)
 [![Gmail Badge](https://img.shields.io/badge/-Email-3ABFE6?style=flat-square&logo=minutemailer&logoColor=white&link=mailto:juniiorliimatt@gmail.com)](mailto:juniiorliimatt@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-6633cc?style=flatsquare&logo=minutemailer&logoColor=white&link=mailto:juniiorliimatt@gmail.com)](mailto:juniiorliimatt@gmail.com)
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-52EE6E?style=flat-square&labelColor=52EE6E&logo=whatsapp&logoColor=white&link=http://wa.me/5585998022263)](http://wa.me/5585998022263)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-383F4F?style=flat-square&labelColor=383F4F&logo=telegram&logoColor=white&link=https://t.me/juniiorliimatt)](https://t.me/juniiorliimatt)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/imsiiix)](https://twitter.com/imsiiix)
