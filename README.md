@@ -1,6 +1,5 @@
 # Junior Lima
 
-
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/juniiorliimatt)](https://github.com/imsiiix)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juniiorliimatt/)](https://www.linkedin.com/in/juniiorliimatt/)
 [![Gmail Badge](https://img.shields.io/badge/-Email-3ABFE6?style=flat-square&logo=minutemailer&logoColor=white&link=mailto:juniiorliimatt@gmail.com)](mailto:juniiorliimatt@gmail.com)
@@ -17,11 +16,10 @@
 > **Education** will not; the world is full of educated derelicts.
 > **Persistence** and **determination** alone are **omnipotent**. The slogan ***Press On***! has solved and always will solve the problems of the **human** race.”
 >
-> ― **Calvin Coolidge**
+> **-Calvin Coolidge**
+
 
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg" alt="css3" width="28" height="28"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg" alt="html5" width="28" height="28"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" alt="javascript" width="28" height="28"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/typescript.svg" alt="typescript" width="28" height="28"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/angular.svg" alt="angular" width="28" height="28"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg" alt="postgresql" width="28" height="28"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mongodb.svg" alt="mongodb" width="28" height="28"/>
-
-<br>
 
 ![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=imsiiix&show_icons=true&hide_border=true)
 
