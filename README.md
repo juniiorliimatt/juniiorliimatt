@@ -29,4 +29,3 @@
 <a href="https://www.facebook.com/juniiorliimatt/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="36" width="36" /></a>
 <a href="https://www.instagram.com/oojuniin/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="36" width="36" /></a>
 </p>
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="horizontal" data-theme="dark" data-vanity="juniiorliimatt"><a class="LI-simple-link" href='https://br.linkedin.com/in/juniiorliimatt?trk=profile-badge'>Junior Lima</a></div>
