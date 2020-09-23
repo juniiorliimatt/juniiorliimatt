@@ -1,13 +1,8 @@
 # Junior Lima
 
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/juniiorliimatt)](https://github.com/imsiiix)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juniiorliimatt/)](https://www.linkedin.com/in/juniiorliimatt/)
 [![Gmail Badge](https://img.shields.io/badge/-juniiorliimatt@gmail.com-6633cc?style=flat-square&logo=minutemailer&logoColor=white&link=mailto:juniiorliimatt@gmail.com)](mailto:juniiorliimatt@gmail.com)
-[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-52EE6E?style=flat-square&labelColor=52EE6E&logo=whatsapp&logoColor=white&link=http://wa.me/5585998022263)](http://wa.me/5585998022263)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-383F4F?style=flat-square&labelColor=383F4F&logo=telegram&logoColor=white&link=https://t.me/juniiorliimatt)](https://t.me/juniiorliimatt)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/imsiiix)](https://twitter.com/imsiiix)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/oojuniin)](https://www.instagram.com/oojuniin)
 
 - 🔶 Currently learning **Javascript**, **Typescript** and **Node.js**
 
@@ -20,7 +15,6 @@
 > **-Calvin Coolidge**
 
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg" alt="css3" width="28" height="28"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg" alt="html5" width="28" height="28"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" alt="javascript" width="28" height="28"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/typescript.svg" alt="typescript" width="28" height="28"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/angular.svg" alt="angular" width="28" height="28"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg" alt="postgresql" width="28" height="28"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mongodb.svg" alt="mongodb" width="28" height="28"/>
 
 ![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=imsiiix&show_icons=true&hide_border=true)
 
@@ -33,3 +27,6 @@
 <a href="https://www.facebook.com/juniiorliimatt/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="36" width="36" /></a>
 <a href="https://www.instagram.com/oojuniin/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="36" width="36" /></a>
 </p>
+
+[
+Contact me](https://imsiiix.github.io/links)
