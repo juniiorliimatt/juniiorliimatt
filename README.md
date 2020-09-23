@@ -18,7 +18,9 @@
 >
 > **-Calvin Coolidge**
 
-![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=imsiiix&show_icons=true&hide_border=true)
+<p align="center">
+  ![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=imsiiix&show_icons=true&hide_border=true)
+</p>
 
 <br>
 <p align="center">
