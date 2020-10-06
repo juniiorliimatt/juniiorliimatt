@@ -18,10 +18,6 @@
 >
 > **-Calvin Coolidge**
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=imsiiix&show_icons=true&hide_border=true" />
-</p>
-
 <br>
 <p align="center">
 <a href="https://twitter.com/imsiiix" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="36" width="36" /></a>
