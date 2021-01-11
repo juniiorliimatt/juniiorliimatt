@@ -23,5 +23,5 @@
 <a href="https://twitter.com/imsiiix" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="36" width="36" /></a>
 <a href="https://www.linkedin.com/in/juniiorliimatt/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="36" width="36" /></a>
 <a href="https://www.facebook.com/juniiorliimatt/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="36" width="36" /></a>
-<a href="https://www.instagram.com/oojuniin/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="36" width="36" /></a>
+<a href="https://www.instagram.com/oojuniin/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="36" width="36" /></a> 
 </p>
