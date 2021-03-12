@@ -4,8 +4,8 @@
   <a href="mailto:juniiorliimatt@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-juniiorliimatt@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=juniiorliimatt@gmail.com" /></a>
 
-  <a href="https://www.linkedin.com/in/juniiorliimatt/" alt="Linkedin">
-<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juniiorliimatt/" /></a>
+<a href="https://www.linkedin.com/in/oojuniin/" alt="LinkedIn">
+<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oojuniin/" /></a>
 </p>
 
 - 🔶 Atualmente estudando **Java**, **Spring Boot**, **PostgreSQL**, **Javascript**, **React.js**
