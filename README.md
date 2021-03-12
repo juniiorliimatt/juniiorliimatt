@@ -8,15 +8,17 @@
 <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juniiorliimatt/" /></a>
 </p>
 
-- 🔶 Currently learning **Javascript**, **Typescript** and **Node.js**
+- 🔶 Atualmente estudando **Java**, **Spring Boot**, **PostgreSQL**, **Javascript**, **React.js**
 
-> “**Nothing** in this world can take the place of **persistence**.
-> **Talent** will not; nothing is more common than unsuccessful men with talent.
-> **Genius** will not; unrewarded genius is almost a proverb.
-> **Education** will not; the world is full of educated derelicts.
-> **Persistence** and **determination** alone are **omnipotent**. The slogan ***Press On***! has solved and always will solve the problems of the **human** race.”
+> ** Nada ** neste mundo pode substituir a ** persistência **.
 >
-> **-Calvin Coolidge**
+> ** Talento ** não; nada é mais comum do que homens malsucedidos com talento.
+> ** Genius ** não; gênio não é recompensado é quase um provérbio.
+> ** Educação ** não; o mundo está cheio de abandonados educados.
+> 
+> ** Persistência ** e ** determinação ** sozinhas são ** onipotentes **. O slogan *** Press On ***! resolveu e sempre resolverá os problemas da raça ** humana **.
+> 
+> ** - Calvin Coolidge **
 
 <br>
 <p align="center">
