@@ -6,9 +6,11 @@
 
 <a href="https://www.linkedin.com/in/oojuniin/" alt="LinkedIn">
 <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oojuniin/" /></a>
-</p>
+</p> <br >
 
-- 🔶 Atualmente estudando **Angular2+**, **Spring Boot**, **PostgreSQL**, **PL/SQL**
+- Recentemente migrei para o GitLab, então aqui não vai ter muita movimentação. <br >
+
+- 🔶 Atualmente estudando **Angular2+**, **Spring Boot**, **PostgreSQL**, **PL/SQL** <br >
 
 > **Nada** neste mundo pode substituir a **persistência**.
 >
@@ -20,10 +22,9 @@
 > 
 > **- Calvin Coolidge**
 
-<br>
+
+
+<br >
 <p align="center">
-<a href="https://twitter.com/oojuniin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="36" width="36" /></a>
 <a href="https://www.linkedin.com/in/oojuniin/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="36" width="36" /></a>
-<a href="https://www.facebook.com/oojuniin/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="36" width="36" /></a>
-<a href="https://www.instagram.com/oojuniin/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="36" width="36" /></a> 
 </p>
