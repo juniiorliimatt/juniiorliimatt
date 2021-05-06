@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oojuniin/" /></a>
 </p>
 
-- 🔶 Atualmente estudando **Java**, **Spring Boot**, **PostgreSQL**, **Javascript**, **React.js**
+- 🔶 Atualmente estudando **ANgular2+**, **Spring Boot**, **PostgreSQL**, **PL/SQL**
 
 > **Nada** neste mundo pode substituir a **persistência**.
 >
