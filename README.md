@@ -14,9 +14,9 @@
 
 > **Nada** neste mundo pode substituir a **persistência**.
 >
-> **Talento** não; nada é mais comum do que homens malsucedidos com talento.
-> **Genius** não; gênio não é recompensado é quase um provérbio.
-> **Educação** não; o mundo está cheio de abandonados educados.
+> **Talento**? não; nada é mais comum do que homens malsucedidos com talento.
+> **Gênius**? não; gênio não é recompensado é quase um provérbio.
+> **Educação**? não; o mundo está cheio de abandonados educados.
 > 
 > **Persistência** e **determinação** sozinhas são **onipotentes**. O slogan ***Press On***! resolveu e sempre resolverá os problemas da raça **humana**.
 > 
