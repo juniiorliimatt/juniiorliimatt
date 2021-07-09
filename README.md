@@ -18,6 +18,6 @@
   <a href="mailto:juniiordev@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-juniiordev@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=juniiordev@gmail.com" /></a>
 
-<a href="https://www.linkedin.com/in/oojuniin/" alt="LinkedIn">
-<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oojuniin/" /></a>
+  <a href="https://www.linkedin.com/in/oojuniin/" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oojuniin/" /></a>
 </p> <br >
