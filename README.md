@@ -15,7 +15,7 @@
 <br>
 
 <p align="left">
-  <a href="mailto:juniiorliimatt@gmail.com" alt="Gmail">
+  <a href="mailto:juniiordev@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-juniiorliimatt@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=juniiorliimatt@gmail.com" /></a>
 
 <a href="https://www.linkedin.com/in/oojuniin/" alt="LinkedIn">
