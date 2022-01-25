@@ -3,13 +3,13 @@
 - 🔶 No meu [LinkedIn](https://www.linkedin.com/in/oojuniin/) você encontra todas as informações sobre mim.
 - 🔶 Atualmente estudando ***Angular2+***, ***Spring Boot***, ***PostgreSQL***, ***Oracle SQL e PL/SQL*** <br >
 
-> **Nada** neste mundo pode substituir a **persistência**. <br>
-> **Talento** ? não; nada é mais comum do que homens malsucedidos com talento. <br>
-> **Gênius** ? não; gênio não é recompensado é quase um provérbio. <br>
-> **Educação** ? não; o mundo está cheio de abandonados educados.<br>
-> **Persistência** e **determinação** sozinhas são **onipotentes**. <br>
+> **Nada** neste mundo pode substituir a **persistência**.  
+> **Talento**? não! Nada é mais comum do que homens malsucedidos com talento.  
+> **Gênius**? não! Gênio não é recompensado é quase um provérbio.  
+> **Educação**? não! O mundo está cheio de abandonados educados.  
+> **Persistência** e **determinação** sozinhas são **onipotentes**.  
 >
-> O slogan ***Press On***! resolveu e sempre resolverá os problemas da raça **humana**. <br>
+> O slogan ***Press On***! resolveu e sempre resolverá os problemas da raça **humana**.  
 > **Calvin Coolidge**
 
 <br>
