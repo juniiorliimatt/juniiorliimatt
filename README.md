@@ -13,25 +13,23 @@
 
 😄 = :computer:  &&  :coffee: ?  :battery: : :electric_plug: ;
 
-- 🔶 Recentemente migrei para o [GitLab](https://gitlab.com/oojuniin), então aqui vai ter pouca movimentação.  
-- 🔶 No meu [LinkedIn](https://www.linkedin.com/in/oojuniin/) você encontra todas as informações sobre mim.
-- 🔶 Atualmente estudando ***Angular2+***, ***Spring Boot***, ***PostgreSQL***, ***Oracle SQL e PL/SQL***  
+- 🔶 I recently migrated to [GitLab](https://gitlab.com/oojuniin), so here there will be little movement.  
+- 🔶 On my [LinkedIn](https://www.linkedin.com/in/oojuniin/) you find all information about me.
+- 🔶 Surrently studying ***ReactJS***, ***Spring Boot***, ***PostgreSQL***, ***Oracle SQL e PL/SQL***  
 
-> **Nada** neste mundo pode substituir a **persistência**.  
-> **Talento**? não! Nada é mais comum do que homens malsucedidos com talento.  
-> **Gênius**? não! Gênio não é recompensado é quase um provérbio.  
-> **Educação**? não! O mundo está cheio de abandonados educados.  
-> **Persistência** e **determinação** sozinhas são **onipotentes**.  
+> **Nothing** in this world can replace **persistence**.
+> **Talent**? no! Nothing is more common than unsuccessful men with talent.
+> **Genius**? no! Genius is not rewarded is almost a proverb.
+> **Education**? no! The world is full of educated outcasts.
+> **Persistence** and **determination** alone are **omnipotent**.
 >
-> O slogan ***Press On***! resolveu e sempre resolverá os problemas da raça **humana**.  
+> The slogan ***Press On***! solved and always will solve the problems of the **human** race.
 > **Calvin Coolidge**
 
 <p align="left">
   <a href="mailto:juniiorliimatt@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-juniiorliimatt@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=juniiorliimatt@gmail.com" /></a>
 </p>
-
-[![linkedin/juniiorliimatt](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oojuniin)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juniiorliimatt&layout=compact&langs_count=8&hide_border=true&theme=dracula)
 
